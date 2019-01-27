@@ -1,2 +1,2 @@
 # portfolio
-[MyTisTory](dlwjdcks5343.tistory.com)
+[MyTisTory](http://dlwjdcks5343.tistory.com)
