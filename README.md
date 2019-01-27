@@ -1,2 +1,3 @@
 # portfolio
-# My Tistory Address=dlwjdcks5343.tistory.com
+# Link: [My Tistory Address][tistorylink]
+# [tistorylink]:dlwjdcks5343.tistory.com
